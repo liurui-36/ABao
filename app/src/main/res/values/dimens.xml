@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">20dp</dimen>
+    <dimen name="text_max">18dp</dimen>
+    <dimen name="text_big">16dp</dimen>
+    <dimen name="text_middle">14dp</dimen>
+    <dimen name="text_small">12dp</dimen>
+    <dimen name="text_min">10dp</dimen>
+</resources>
